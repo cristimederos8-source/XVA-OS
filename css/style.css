@@ -761,7 +761,7 @@ ul {
 .tabla-comparativa {
   width: 100%;
   border-collapse: collapse;
-  min-width: 760px;
+  min-width: 960px;
 }
 
 .tabla-comparativa thead th {
